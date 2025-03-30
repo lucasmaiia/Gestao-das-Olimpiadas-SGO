@@ -1,6 +1,6 @@
 # Sistema de Gestão das Olimpíadas (SGO)
 
-<img width="600px" height="" src="imagens/logotipo.png"/>
+<img width="800px" height="200px" src="imagens/logotipo.png"/>
 
 Esse trabalho foi desenvolvido por: 
 
