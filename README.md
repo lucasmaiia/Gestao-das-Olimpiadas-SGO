@@ -18,3 +18,16 @@ O **Sistema de Gestão das Olimpíadas (SGO)** é uma solução desenvolvida par
 | US08  | Como espectador, eu quero visualizar os atletas inscritos em uma competição para saber quem irá competir. |
 | US09  | Como administrador, eu quero evitar que dois eventos ocorram no mesmo local e horário para manter a organização. |
 | US10  | Como responsável pela TI, eu quero que o sistema armazene todas as informações de forma estruturada para facilitar futuras análises. | 
+
+## Diagrama de caso de uso
+
+<img width="500px" height="500px" src="imagens/diagrama-de-caso-de-uso.png"/>
+
+## Diagrama de classes
+
+<img width="500px" height="500px" src="imagens/diagrama-de-classes.png"/>
+
+## Diagrama de caso pacotes
+
+<img width="500px" height="500px" src="imagens/diagrama-de-pacotes.png"/>
+
