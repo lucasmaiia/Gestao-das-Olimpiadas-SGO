@@ -1,8 +1,12 @@
 # Sistema de Gestão das Olimpíadas (SGO)
 
-<img width="" height="500px" src="imagens/logotipo.png"/>
+<img width="600px" height="" src="imagens/logotipo.png"/>
 
-O **Sistema de Gestão das Olimpíadas (SGO)** é uma solução desenvolvida para coordenar os diversos aspectos logísticos e operacionais dos Jogos Olímpicos. O sistema tem como objetivo principal organizar e facilitar o cadastro de competições, inscrições de atletas, alocação de locais para eventos, registro de resultados e geração de relatórios de medalhas por país.
+Esse trabalho foi desenvolvido por: 
+
+ * Davi Érico dos Santos 
+ * Lucas Maia Rocha
+
 
 ## Histórias de Usuário
 
