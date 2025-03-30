@@ -19,15 +19,22 @@ O **Sistema de Gestão das Olimpíadas (SGO)** é uma solução desenvolvida par
 | US09  | Como administrador, eu quero evitar que dois eventos ocorram no mesmo local e horário para manter a organização. |
 | US10  | Como responsável pela TI, eu quero que o sistema armazene todas as informações de forma estruturada para facilitar futuras análises. | 
 
-## Diagrama de caso de uso
+## Diagrama de Caso de uso
 
 <img width="500px" height="500px" src="imagens/diagrama-de-caso-de-uso.png"/>
 
-## Diagrama de classes
+## Diagrama de Classes
 
 <img width="500px" height="500px" src="imagens/diagrama-de-classes.png"/>
 
-## Diagrama de caso pacotes
+## Diagrama de Pacotes
 
 <img width="500px" height="500px" src="imagens/diagrama-de-pacotes.png"/>
 
+## Diagrama de Componentes
+
+<img width="500px" height="500px" src="imagens/diagrama-de-componentes.png"/>
+
+## Diagrama de Implantação
+
+<img width="500px" height="500px" src="imagens/diagrama-de-implantacao.png"/>
