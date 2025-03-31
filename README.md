@@ -7,6 +7,7 @@ Esse trabalho foi desenvolvido por:
  * Davi Érico dos Santos 
  * Lucas Maia Rocha
 
+OBS: Para uma melhor visualização do README é recomendado utilizar o tema claro no GitHub. 
 
 ## Histórias de Usuário
 
